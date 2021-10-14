@@ -32,7 +32,7 @@ Week|Mon|Tue|Wed|Thu|Fri|Sat|Sun
 4	|Paula|	Paula|	Roger	|Roger	|Daniela	|Daniela	|Daniela
 
 
-Your Task:
+### Your Task:
 Complete the JavaScript code of the function whoIsOnCall, using the least number of lines of code, that returns the name of the person on call based on a date provided as argument to the function.
 
 The full program template is this:
@@ -74,14 +74,13 @@ You must complete the whoIsOnCall() function and send us back the entire program
 
 When the template program is executed with your whoIsOnCall function in it, the output should show the name of the person who is on call on the date that was passed to your function. The template program assumes a start date of august 16th, 2021 and it calls the function for a random set of 5 dates, a pattern of 2,2,3 and a group of 4 people. With such input, your program must output:
 
-8/16/2021 On call: Max
-8/23/2021 On call: Daniela
-8/28/2021 On call: Paula
-9/8/2021 On call: Roger
-9/12/2021 On call: Daniela
+- 8/16/2021 On call: Max
+- 8/23/2021 On call: Daniela
+- 8/28/2021 On call: Paula
+- 9/8/2021 On call: Roger
+- 9/12/2021 On call: Daniela
 
 Your function must work with any number of people in the group, any start date, any pattern, and any input date
-
 
 ## Rules and Evaluation Criteria
 
