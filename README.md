@@ -22,7 +22,7 @@ The fourth week starts with Paula on call 2 days, then Roger 2 days and Daniela 
 
 After 4 weeks (28 days), the cycle repeats and all of the team members would have been on call the same amount of days. 
 
-After 4 weeks (28 days), the cycle repeats and all of the team members would have been on call the same amount of days. 
+Here’s how the first 4 weeks’ on-call schedule looks like:
 
 Week|Mon|Tue|Wed|Thu|Fri|Sat|Sun
 ----|---|---|---|---|---|---|---
